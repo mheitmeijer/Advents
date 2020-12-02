@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advent01", "Advent1\Advent0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advent02", "Advent02\Advent02.csproj", "{C1B6AA11-08DA-40A5-ADCD-1D330229B92D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advent03", "Advent03\Advent03.csproj", "{78E55A08-34CA-4F64-B1EC-44CC5630EADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C1B6AA11-08DA-40A5-ADCD-1D330229B92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B6AA11-08DA-40A5-ADCD-1D330229B92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B6AA11-08DA-40A5-ADCD-1D330229B92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78E55A08-34CA-4F64-B1EC-44CC5630EADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E55A08-34CA-4F64-B1EC-44CC5630EADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E55A08-34CA-4F64-B1EC-44CC5630EADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E55A08-34CA-4F64-B1EC-44CC5630EADD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
